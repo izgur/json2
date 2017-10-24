@@ -1,0 +1,33 @@
+{
+  "code": "OK",
+  "msg": "",
+  "data": {
+    "asNode": [
+      {
+        "id": 1,
+        "name": "Pins root",
+        "children": [
+          {
+            "id": 2,
+            "name": "??????",
+            "children": [
+              {
+                "id": 3,
+                "name": "???????????? ???????",
+                "children": [],
+				"parentId": 3,
+                "level": 3,
+                "liboas": "??????_???????????? ???????"
+              }
+            "parentId": 1,
+            "level": 1,
+            "liboas": "??????"
+          },
+        ],
+        "parentId": 0,
+        "level": 0,
+        "liboas": "Pins root"
+      }
+    ]
+  }
+}
